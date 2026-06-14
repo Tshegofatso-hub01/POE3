@@ -1,0 +1,25 @@
+=== STORED MESSAGES ===
+Date: 2026-06-14 20:34:39
+Total Stored Messages: 3
+
+--- Message 1 ---
+Message ID: 3419643592
+Message Number: 2
+Recipient: +27834557896
+Content: Where are you? You are late! I have asked you to be on time.
+Message Hash: 34:2:WHERETIME.
+
+--- Message 2 ---
+Message ID: 7701481095
+Message Number: 2
+Recipient: +27838884567
+Content: Where are you? You are late! I have asked you to be on time.
+Message Hash: 77:2:WHERETIME.
+
+--- Message 3 ---
+Message ID: 7928661290
+Message Number: 5
+Recipient: +27838884567
+Content: Ok, I am leaving without you.
+Message Hash: 79:5:OK,YOU.
+
